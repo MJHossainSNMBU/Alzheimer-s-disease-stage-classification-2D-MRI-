@@ -31,5 +31,4 @@ This project is focused on detecting Alzheimer's disease using convolutional neu
 2. Install the required dependencies.
 3. Execute the scripts according to the steps mentioned in the individual `.py` files.
 
-### Author:
-Israt Yeasmin Rafe
+
