@@ -32,3 +32,5 @@ This project is focused on detecting Alzheimer's disease using convolutional neu
 3. Execute the scripts according to the steps mentioned in the individual `.py` files.
 
 
+### Article link
+[Performance analysis of transfer learning based deep neural networks in Alzheimer classification](https://ieeexplore.ieee.org/document/10013501)
